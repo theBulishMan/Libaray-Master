@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/lib/google-api-client-repackaged-com-google-common-base-1.2.3-alpha.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/hutool-2.16.2.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/mysql-connector-j-8.0.31.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/finalProject/Book.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/finalProject/Book.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/finalProject/Book.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/finalProject/Function.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/finalProject/PwdCheckUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/finalProject/TableOperate.java" charset="GBK" />
+  </component>
+</project>
